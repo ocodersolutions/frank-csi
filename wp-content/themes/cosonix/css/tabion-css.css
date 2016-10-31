@@ -1,0 +1,435 @@
+/*========== START TABION ==========*/
+.tabion {
+	padding: 50px 0 80px;
+	list-style:none;
+	width: 100%;
+	position:relative;
+	overflow: hidden;
+}
+.tabion > li {
+	list-style:none;
+	position:relative;
+	top:0px;
+	width: auto;
+	display: inline-block;
+	float: left;
+	height: 504px;
+}
+
+.tabion > li > input[type=radio] {
+	display:none;
+}
+
+.tabion li.active{
+	width: 51.40350877192982%;
+}
+
+.tabion li.active .tabion-content{
+	width: 69.28327645051195%;
+}
+
+.tabion li.active .tabtile{
+	width: 30.71672354948805%;
+}
+
+.tabion li:first-child .tabtile img{
+	-webkit-border-radius: 5px 0 0 5px;
+	-moz-border-radius: 5px 0 0 5px;
+	border-radius: 5px 0 0 5px;
+}
+
+.tabion li:last-child .tabtile img{
+	-webkit-border-radius: 0 5px 5px 0;
+	-moz-border-radius: 0 5px 5px 0;
+	border-radius: 0 5px 5px 0;
+}
+
+.tabion li.active:last-child .tabtile img{
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+}
+
+.tabion li.active:last-child .tabion-content{
+	-webkit-border-radius: 0 5px 5px 0;
+	-moz-border-radius: 0 5px 5px 0;
+	border-radius: 0 5px 5px 0;
+}
+
+@media screen and (min-width: 992px){
+	.tabion > li{
+	}
+	.tabion li .tabtile img{
+		width: 148px;
+	}
+}
+
+@media screen and (min-width: 1200px){
+	.tabion li .tabtile img{
+		width: 180px;
+	}
+	.tabion > li{
+		height: 504px;
+	}
+}
+
+.tabtile {
+	position:relative;
+	display:inline-block;
+	cursor: pointer;
+}
+
+.tabtile:before{
+	position: absolute;
+	content: '';
+	display: block;
+	width: 100%;
+	height: 0;
+	background-color: rgba(236, 174, 26, 0.5);
+	z-index: 2;
+}
+
+.tabtile:hover:before{
+	height: 100%;
+}
+
+.tabtile .light-text{
+	font-family: 'Lato', sans-serif;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	display: inline-block;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 26px;
+	z-index: 3;
+	padding: 10px 14px;
+	margin: 0;
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-ms-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+}
+
+.tabtile .light-text:after{
+	content: "\f18e";
+	font: normal normal normal 24px/1 FontAwesome;
+	color: #ecae1a;
+	position: relative;
+	z-index: 4;
+	opacity: 1;
+	margin-left: 21px;
+	visibility: hidden;
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-ms-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+}
+.tabtile .light-text:hover{
+	margin-left: 10px;
+}
+.tabtile .light-text:hover:after{
+	visibility: visible;
+}
+
+/* Left Positions */
+.pos-left-1{ left: 30.71672354948805%; }
+.pos-left-2{ left: 30.71672354948805%; }
+.pos-left-3{ left: 30.71672354948805%; }
+.pos-left-4{ left: 30.71672354948805%; }
+
+/* Top Position */
+.pos-top-100 { top:100px; }
+.pos-top-200 { top:200px; }
+.pos-top-300 { top:300px; }
+.pos-top-400 { top:400px; }
+
+
+
+.tabion-content {
+	position:absolute;
+	padding: 23px 17px;
+	display:none;
+	overflow:hidden;
+	background-color: #fff;
+	width: 35.6140350877193%;
+	height: 100%;
+	top: 0;
+}
+
+.tabion-content > p {
+	font-size:13px;
+	line-height:23px;
+	text-align: left;
+	color: #999;
+	margin-bottom: 10px;
+}
+.tabion-content > .title {
+	font-family: 'Lato', sans-serif;
+	font-size:18px;
+	line-height: 20px;
+	color: #999;
+	font-weight: 700;
+	text-align: left;
+	margin-bottom: 5px;
+}
+.tabion-content > .description{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight:400;
+	color:#787878;
+	font-size:15px;
+}
+
+/* Start Clickable Tab */
+.tabion > li > input[type=radio]:checked + .tabion-content {
+	display:block;
+}
+
+.tabion > li > input[type=radio]:checked + .tab-flip {
+	-webkit-transform-style: preserve-3d;
+	-moz-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+	-webkit-backface-visibility: visible !important;
+	-webkit-animation-name: flip;
+	-moz-backface-visibility: visible !important;
+	-moz-animation-name: flip;
+	backface-visibility: visible !important;
+	animation-name: flip;
+}
+.tabion > li > input[type=radio]:checked + .tab-flipInX {
+	-webkit-backface-visibility: visible !important;
+	-webkit-animation-name: flipInX;
+	-moz-backface-visibility: visible !important;
+	-moz-animation-name: flipInX;
+	-o-backface-visibility: visible !important;
+	-o-animation-name: flipInX;
+	backface-visibility: visible !important;
+	animation-name: flipInX;
+}
+.tabion > li > input[type=radio]:checked + .tab-flipInY {
+	-webkit-backface-visibility: visible !important;
+	-webkit-animation-name: flipInY;
+	-moz-backface-visibility: visible !important;
+	-moz-animation-name: flipInY;
+	-o-backface-visibility: visible !important;
+	-o-animation-name: flipInY;
+	backface-visibility: visible !important;
+	animation-name: flipInY;
+}
+.tabion > li > input[type=radio]:checked + .tab-fadeIn {
+	-webkit-animation-name: fadeIn;
+	-moz-animation-name: fadeIn;
+	-o-animation-name: fadeIn;
+	animation-name: fadeIn;
+}
+.tabion > li > input[type=radio]:checked + .tab-fadeInUp {
+	-webkit-animation-name: fadeInUp;
+	-moz-animation-name: fadeInUp;
+	-o-animation-name: fadeInUp;
+	animation-name: fadeInUp;
+}
+.tabion > li > input[type=radio]:checked + .tab-fadeInDown {
+	-webkit-animation-name: fadeInDown;
+	-moz-animation-name: fadeInDown;
+	-o-animation-name: fadeInDown;
+	animation-name: fadeInDown;
+}
+.tabion > li > input[type=radio]:checked + .tab-fadeInLeft {
+	-webkit-animation-name: fadeInLeft;
+	-moz-animation-name: fadeInLeft;
+	-o-animation-name: fadeInLeft;
+	animation-name: fadeInLeft;
+}
+.tabion > li > input[type=radio]:checked + .tab-fadeInRight {
+	-webkit-animation-name: fadeInRight;
+	-moz-animation-name: fadeInRight;
+	-o-animation-name: fadeInRight;
+	animation-name: fadeInRight;
+}
+.tabion > li > input[type=radio]:checked + .tab-fadeInUpBig {
+	-webkit-animation-name: fadeInUpBig;
+	-moz-animation-name: fadeInUpBig;
+	-o-animation-name: fadeInUpBig;
+	animation-name: fadeInUpBig;
+}
+.tabion > li > input[type=radio]:checked + .tab-fadeInDownBig {
+	-webkit-animation-name: fadeInDownBig;
+	-moz-animation-name: fadeInDownBig;
+	-o-animation-name: fadeInDownBig;
+	animation-name: fadeInDownBig;
+}
+.tabion > li > input[type=radio]:checked + .tab-fadeInLeftBig {
+	-webkit-animation-name: fadeInLeftBig;
+	-moz-animation-name: fadeInLeftBig;
+	-o-animation-name: fadeInLeftBig;
+	animation-name: fadeInLeftBig;
+}
+.tabion > li > input[type=radio]:checked + .tab-fadeInRightBig {
+	-webkit-animation-name: fadeInRightBig;
+	-moz-animation-name: fadeInRightBig;
+	-o-animation-name: fadeInRightBig;
+	animation-name: fadeInRightBig;
+}
+
+.tabion > li > input[type=radio]:checked + .tab-bounceIn {
+	-webkit-animation-name: bounceIn;
+	-moz-animation-name: bounceIn;
+}
+
+.tabion > li > input[type=radio]:checked + .tab-bounceInUp {
+	-webkit-animation-name: bounceInUp;
+	-moz-animation-name: bounceInUp;
+}
+.tabion > li > input[type=radio]:checked + .tab-bounceInDown {
+	-webkit-animation-name: bounceInDown;
+	-moz-animation-name: bounceInDown;
+}
+.tabion > li > input[type=radio]:checked + .tab-bounceInLeft {
+	-webkit-animation-name: bounceInLeft;
+	-moz-animation-name: bounceInLeft;
+}
+.tabion > li > input[type=radio]:checked + .tab-bounceInRight {
+	-webkit-animation-name: bounceInRight;
+	-moz-animation-name: bounceInRight;
+}
+.tabion > li > input[type=radio]:checked + .tab-rotateIn {
+	-webkit-animation-name: rotateIn;
+	-moz-animation-name: rotateIn;
+	-o-animation-name: rotateIn;
+	animation-name: rotateIn;
+}
+.tabion > li > input[type=radio]:checked + .tab-rotateInUpLeft {
+	-webkit-animation-name: rotateInUpLeft;
+	-moz-animation-name: rotateInUpLeft;
+	-o-animation-name: rotateInUpLeft;
+	animation-name: rotateInUpLeft;
+}
+.tabion > li > input[type=radio]:checked + .tab-rotateInDownLeft {
+	-webkit-animation-name: rotateInDownLeft;
+	-moz-animation-name: rotateInDownLeft;
+	-o-animation-name: rotateInDownLeft;
+	animation-name: rotateInDownLeft;
+}
+.tabion > li > input[type=radio]:checked + .tab-rotateInUpRight {
+	-webkit-animation-name: rotateInUpRight;
+	-moz-animation-name: rotateInUpRight;
+	-o-animation-name: rotateInUpRight;
+	animation-name: rotateInUpRight;
+}
+.tabion > li > input[type=radio]:checked + .tab-rotateInDownRight {
+	-webkit-animation-name: rotateInDownRight;
+	-moz-animation-name: rotateInDownRight;
+	-o-animation-name: rotateInDownRight;
+	animation-name: rotateInDownRight;
+}
+.tabion > li > input[type=radio]:checked + .tab-lightSpeedIn {
+    -webkit-animation-name: lightSpeedIn;
+    -moz-animation-name: lightSpeedIn;
+    -webkit-animation-timing-function: ease-out;
+    -moz-animation-timing-function: ease-out;
+}
+.tabion > li > input[type=radio]:checked + .tab-rollIn {
+	-webkit-animation-name: rollIn;
+	-moz-animation-name: rollIn;
+	-o-animation-name: rollIn;
+	animation-name: rollIn;
+}
+
+/* End Clickable Tab */
+
+
+
+
+/* Set Height */
+.height-470 { height:470px; }
+.height-500 { height:500px; }
+.height-600 { height:600px; }
+
+
+
+/*===== START RESPONSIVE =====*/
+
+@media screen and (max-width:767px) {
+
+	.tabion {
+		width:100%;
+		height:auto;
+		position:relative;
+		overflow:hidden;
+	}
+	.tabion > li {
+		position:relative;
+		width:100%;
+		height:auto;
+	}
+	
+	.tabtile-small, .tabtile-med {
+		text-align:left;
+		width:100%;
+		height:90px;
+		line-height:90px;
+		margin:0;
+	}
+	.tabtile-small > i, .tabtile-small > img, .tabtile-med > i, .tabtile-med > img {
+		vertical-align: middle;
+		margin:auto;
+		padding:0px 10px;
+		position:relative;
+		width:48px !important;
+		height:48px !important;
+		line-height:1;
+		display:inline-block;
+	}
+	.tabtile-small > span, .tabtile-med > span {
+		vertical-align: middle;
+		display:inline;
+		font-size:18px;
+		line-height:1;
+	}
+
+	.tabtile {
+		position:relative;
+		left:0px;
+		top:0px;
+	}
+
+	.tabion-content {
+		position:relative;
+		height:auto;
+		top:0px;
+		left:0px;
+	}
+
+}
+
+/*===== END RESPONSIVE =====*/
+
+
+/*========== END TABION ==========*/
+
+
+
+
+/* MISC */
+.clearspace { clear: both; }
+.floatleft { float:left !important; }
+.floatright { float:right !important; }
+.none { display:none !important; }
+
+.light-text {
+	color:#fff;
+}
+.dark-text {
+	color:#1e1e1e;
+}
+.gradient {
+	background: -moz-linear-gradient(-45deg,  rgba(255,255,255,0) 0%, rgba(255,255,255,0.3) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(255,255,255,0)), color-stop(100%,rgba(255,255,255,0.3))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(-45deg,  rgba(255,255,255,0) 00%,rgba(255,255,255,0.3) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(-45deg,  rgba(255,255,255,0) 0%,rgba(255,255,255,0.3) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(-45deg,  rgba(255,255,255,0) 0%,rgba(255,255,255,0.3) 100%); /* IE10+ */
+	background: linear-gradient(-45deg,  rgba(255,255,255,0) 0%,rgba(255,255,255,0.3) 100%); /* W3C */
+}

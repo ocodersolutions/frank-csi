@@ -1,0 +1,2521 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cosonix Theme 1.0\n"
+"POT-Creation-Date: 2016-02-13 02:30+0600\n"
+"PO-Revision-Date: 2016-02-13 02:30+0600\n"
+"Last-Translator: Mazharul Islam <common.icon.cool@gmail.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: _e;__;_x;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:19 ../archive.php:49 ../author.php:49 ../category.php:49
+#: ../index.php:56 ../page-vc.php:13 ../page.php:16 ../search.php:49
+#: ../single.php:46
+msgid " No posts were found. Sorry!"
+msgstr ""
+
+#: ../archive.php:35 ../author.php:35 ../category.php:35 ../index.php:42
+#: ../single.php:28
+msgid "Comments"
+msgstr ""
+
+#: ../archive.php:44 ../author.php:44 ../category.php:44 ../index.php:51
+#: ../search.php:44
+msgid "Read More"
+msgstr ""
+
+#: ../comments.php:14
+msgid "There Is No Comment Yet"
+msgstr ""
+
+#: ../comments.php:14
+msgid "There Is 1 Comment"
+msgstr ""
+
+#: ../comments.php:14
+msgid "There Are % Comments"
+msgstr ""
+
+#: ../comments.php:28
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:38 ../inc/theme-functions.php:212
+msgid "Submit comment"
+msgstr ""
+
+#: ../contact.php:51 ../contact.php:53
+msgid "You have been contacted by "
+msgstr ""
+
+#: ../contact.php:54
+msgid "Their subject is: "
+msgstr ""
+
+#: ../contact.php:55
+msgid "Their message is: "
+msgstr ""
+
+#: ../contact.php:57
+msgid "You can contact "
+msgstr ""
+
+#: ../contact.php:58
+msgid " via email at "
+msgstr ""
+
+#: ../contact.php:69
+msgid "Thank you, your email has been sent."
+msgstr ""
+
+#: ../contact.php:72
+msgid "Error while sending a message!"
+msgstr ""
+
+#: ../contact.php:78 ../inc/enqueue.php:41 ../inc/enqueue.php:47
+msgid "Please, fill in the required fields!"
+msgstr ""
+
+#: ../footer.php:10
+msgid "Quick links"
+msgstr ""
+
+#: ../footer.php:23
+msgid "Social media"
+msgstr ""
+
+#: ../footer.php:47
+msgid "News Updates"
+msgstr ""
+
+#: ../footer.php:77
+msgid "Newsletter sign up"
+msgstr ""
+
+#: ../footer.php:120
+msgid "Footer Logo"
+msgstr ""
+
+#: ../framework/admin/custom-fields/field_font_upload/field_upload.php:46
+#: ../framework/admin/custom-fields/field_slides.php:114
+#: ../framework/admin/custom-fields/field_slides.php:176
+#: ../framework/admin/options/fields/slides/field_slides.php:126
+#: ../framework/admin/options/fields/slides/field_slides.php:188
+#: ../framework/admin/options/fields/upload/field_upload.php:30
+msgid "Upload"
+msgstr ""
+
+#: ../framework/admin/custom-fields/field_font_upload/field_upload.php:47
+#: ../framework/admin/options/fields/upload/field_upload.php:31
+msgid "Remove Upload"
+msgstr ""
+
+#: ../framework/admin/custom-fields/field_slides.php:56
+#: ../framework/admin/options/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: ../framework/admin/custom-fields/field_slides.php:61
+#: ../framework/admin/options/fields/slides/field_slides.php:73
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: ../framework/admin/custom-fields/field_slides.php:121
+#: ../framework/admin/custom-fields/field_slides.php:178
+#: ../framework/admin/options/fields/multi_text/field_multi_text.php:31
+#: ../framework/admin/options/fields/multi_text/field_multi_text.php:35
+#: ../framework/admin/options/fields/multi_text/field_multi_text.php:38
+#: ../framework/admin/options/fields/slides/field_slides.php:133
+#: ../framework/admin/options/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr ""
+
+#: ../framework/admin/custom-fields/field_slides.php:133
+#: ../framework/admin/custom-fields/field_slides.php:188
+#: ../framework/admin/options/fields/slides/field_slides.php:145
+#: ../framework/admin/options/fields/slides/field_slides.php:200
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:23
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:96
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:244
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:316
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:575
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2178
+msgid "Title"
+msgstr ""
+
+#: ../framework/admin/custom-fields/field_slides.php:137
+#: ../framework/admin/custom-fields/field_slides.php:192
+#: ../framework/admin/options/fields/slides/field_slides.php:149
+#: ../framework/admin/options/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr ""
+
+#: ../framework/admin/custom-fields/field_slides.php:141
+#: ../framework/admin/custom-fields/field_slides.php:195
+#: ../framework/admin/options/fields/slides/field_slides.php:153
+#: ../framework/admin/options/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: ../framework/admin/custom-fields/field_slides.php:155
+#: ../framework/admin/custom-fields/field_slides.php:208
+#: ../framework/admin/options/fields/slides/field_slides.php:167
+#: ../framework/admin/options/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr ""
+
+#: ../framework/admin/custom-fields/field_slides.php:211
+#: ../framework/admin/options/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: ../framework/admin/custom-fields/field_typography.php:30
+msgid "Family / Color"
+msgstr ""
+
+#: ../framework/admin/custom-fields/field_typography.php:33
+msgid "Default Fonts"
+msgstr ""
+
+#: ../framework/admin/custom-fields/field_typography.php:36
+msgid "Google Fonts"
+msgstr ""
+
+#: ../framework/admin/custom-fields/field_typography.php:57
+msgid "Size / Weight"
+msgstr ""
+
+#: ../framework/admin/custom-fields/field_typography.php:62
+msgid "Weight"
+msgstr ""
+
+#: ../framework/admin/options.php:51
+msgid "Follow me on Twitter"
+msgstr ""
+
+#: ../framework/admin/options.php:56
+msgid "Find me on LinkedIn"
+msgstr ""
+
+#: ../framework/admin/options.php:70 ../framework/admin/options.php:74
+msgid "Theme Options"
+msgstr ""
+
+#: ../framework/admin/options.php:95
+msgid "<h4>Theme Settings Information for Cosonix eBook Theme</h4>"
+msgstr ""
+
+#: ../framework/admin/options.php:104
+msgid "General"
+msgstr ""
+
+#: ../framework/admin/options.php:105
+msgid "<p class=\"description\">This is the general options.</p>"
+msgstr ""
+
+#: ../framework/admin/options.php:110
+msgid "Upload Main Logo"
+msgstr ""
+
+#: ../framework/admin/options.php:111
+msgid "This is the main logo"
+msgstr ""
+
+#: ../framework/admin/options.php:117
+msgid "Upload Favicon"
+msgstr ""
+
+#: ../framework/admin/options.php:118
+msgid "This is favicon. Upload 64x64 favicon icon."
+msgstr ""
+
+#: ../framework/admin/options.php:124
+msgid "Upload Apple Touch Icon"
+msgstr ""
+
+#: ../framework/admin/options.php:130
+msgid "Header Background Color"
+msgstr ""
+
+#: ../framework/admin/options.php:131
+msgid "Choose header background color from here. Default color is white."
+msgstr ""
+
+#: ../framework/admin/options.php:138
+msgid "One Page"
+msgstr ""
+
+#: ../framework/admin/options.php:139
+msgid "On/Off One Page"
+msgstr ""
+
+#: ../framework/admin/options.php:142
+msgid ""
+"If you plan to make your site Multi-Page, please switch off One-Page from "
+"here. It will stop the main Menu from one-page scrolling within the same "
+"page and work as multi-page menu."
+msgstr ""
+
+#: ../framework/admin/options.php:148
+msgid "Retina Display"
+msgstr ""
+
+#: ../framework/admin/options.php:149
+msgid "On/Off Retina display mode."
+msgstr ""
+
+#: ../framework/admin/options.php:152
+msgid "Keep every images @2x version if Retina mode is On."
+msgstr ""
+
+#: ../framework/admin/options.php:158
+msgid "Animations"
+msgstr ""
+
+#: ../framework/admin/options.php:159
+msgid "On/Off Default Animations."
+msgstr ""
+
+#: ../framework/admin/options.php:162
+msgid ""
+"To have the animations like the Live Preview of Cosonix Theme you will just "
+"need to make sure that the Row ID of the animated sections are: home, "
+"features, pricing, reviews."
+msgstr ""
+
+#: ../framework/admin/options.php:166
+msgid "Custom CSS"
+msgstr ""
+
+#: ../framework/admin/options.php:167
+msgid ""
+"Advanced CSS options. Paste your CSS code and it will override existing code "
+"style."
+msgstr ""
+
+#: ../framework/admin/options.php:181
+msgid "Colors"
+msgstr ""
+
+#: ../framework/admin/options.php:182
+msgid "<p class=\"description\">Choose global color for your website</p>"
+msgstr ""
+
+#: ../framework/admin/options.php:188
+msgid "Website Ready-Made Colors"
+msgstr ""
+
+#: ../framework/admin/options.php:189
+msgid "Choose a Color for your Website"
+msgstr ""
+
+#: ../framework/admin/options.php:196
+msgid "Custom Color"
+msgstr ""
+
+#: ../framework/admin/options.php:197
+msgid "Want to use a custom color other than the above colors?"
+msgstr ""
+
+#: ../framework/admin/options.php:198
+msgid "Check this if you want to use a custom color"
+msgstr ""
+
+#: ../framework/admin/options.php:203
+msgid "Website Custom Color"
+msgstr ""
+
+#: ../framework/admin/options.php:204
+msgid "Choose custom Color from here"
+msgstr ""
+
+#: ../framework/admin/options.php:205
+msgid "Keep it empty if you like to use the above Ready-Made colors"
+msgstr ""
+
+#: ../framework/admin/options.php:211
+msgid "Blog Posts Custom Color"
+msgstr ""
+
+#: ../framework/admin/options.php:212
+msgid "Choose custom Color for Blog"
+msgstr ""
+
+#: ../framework/admin/options.php:213
+msgid "Default Blog Posts color is #acb1b7"
+msgstr ""
+
+#: ../framework/admin/options.php:224
+msgid "Social Media"
+msgstr ""
+
+#: ../framework/admin/options.php:225
+msgid ""
+"<p class=\"description\">This is options for setting up the social media of "
+"website. Do not forget to use http:// for any social urls.</p>"
+msgstr ""
+
+#: ../framework/admin/options.php:230
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:747
+msgid "Facebook URL"
+msgstr ""
+
+#: ../framework/admin/options.php:231 ../framework/admin/options.php:239
+#: ../framework/admin/options.php:247 ../framework/admin/options.php:255
+#: ../framework/admin/options.php:263 ../framework/admin/options.php:271
+#: ../framework/admin/options.php:279
+msgid "The URL to your account page"
+msgstr ""
+
+#: ../framework/admin/options.php:238
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:753
+msgid "Twitter URL"
+msgstr ""
+
+#: ../framework/admin/options.php:246
+msgid "Linkedin URL"
+msgstr ""
+
+#: ../framework/admin/options.php:254
+msgid "GooglePlus URL"
+msgstr ""
+
+#: ../framework/admin/options.php:262
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:765
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../framework/admin/options.php:270
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:771
+msgid "Instagram URL"
+msgstr ""
+
+#: ../framework/admin/options.php:278
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:777
+msgid "Youtube URL"
+msgstr ""
+
+#: ../framework/admin/options.php:290
+msgid "MailChimp/Aweber"
+msgstr ""
+
+#: ../framework/admin/options.php:291
+msgid ""
+"<p class=\"description\">MailChimp or Aweber settings for subscriber forms "
+"of Cosonix</p>"
+msgstr ""
+
+#: ../framework/admin/options.php:297
+msgid "MailChimp API Key"
+msgstr ""
+
+#: ../framework/admin/options.php:298
+msgid "The API key of your MailChimp account"
+msgstr ""
+
+#: ../framework/admin/options.php:304
+msgid "MailChimp List ID"
+msgstr ""
+
+#: ../framework/admin/options.php:305
+msgid "The List Id of your Mailchimp."
+msgstr ""
+
+#: ../framework/admin/options.php:311
+msgid ""
+"<p class=\"description\">If you want to use Aweber instead of MailChimp use "
+"the settings below and keep the above MailChimp fields empty.</p>"
+msgstr ""
+
+#: ../framework/admin/options.php:316
+msgid "Aweber List ID"
+msgstr ""
+
+#: ../framework/admin/options.php:317
+msgid "The unique List ID of Aweber account"
+msgstr ""
+
+#: ../framework/admin/options.php:323
+msgid "Redirect Page URL"
+msgstr ""
+
+#: ../framework/admin/options.php:324
+msgid "Redirect page url after successful subscription of Aweber"
+msgstr ""
+
+#: ../framework/admin/options.php:330
+msgid "Redirect Page URL for already subscribed users"
+msgstr ""
+
+#: ../framework/admin/options.php:331 ../framework/admin/options.php:440
+msgid "Redirect page url for already subscribed users of Aweber"
+msgstr ""
+
+#: ../framework/admin/options.php:342
+msgid "Blog"
+msgstr ""
+
+#: ../framework/admin/options.php:343
+msgid "<p class=\"description\">Blog Settings</p>"
+msgstr ""
+
+#: ../framework/admin/options.php:349
+msgid "Sidebar Position"
+msgstr ""
+
+#: ../framework/admin/options.php:356
+msgid "Post Meta for Blog pages"
+msgstr ""
+
+#: ../framework/admin/options.php:357 ../framework/admin/options.php:365
+msgid "Show/Hide Post date, Number of comments and Tags."
+msgstr ""
+
+#: ../framework/admin/options.php:364
+msgid "Post Meta for Single Post"
+msgstr ""
+
+#: ../framework/admin/options.php:377
+msgid "Footer"
+msgstr ""
+
+#: ../framework/admin/options.php:378
+msgid "<p class=\"description\">This is options for footer.</p>"
+msgstr ""
+
+#: ../framework/admin/options.php:384
+msgid "Upload Footer Logo"
+msgstr ""
+
+#: ../framework/admin/options.php:385
+msgid "This is the footer logo"
+msgstr ""
+
+#: ../framework/admin/options.php:391
+msgid "Copyright Text"
+msgstr ""
+
+#: ../framework/admin/options.php:392
+msgid "Enter your Copyright text here"
+msgstr ""
+
+#: ../framework/admin/options.php:399
+msgid "Bottom Footer Background Color"
+msgstr ""
+
+#: ../framework/admin/options.php:400
+msgid "Choose Bottom Footer background color from here."
+msgstr ""
+
+#: ../framework/admin/options.php:407
+msgid "Top Footer Section"
+msgstr ""
+
+#: ../framework/admin/options.php:408
+msgid "Show/Hide Top Footer Section."
+msgstr ""
+
+#: ../framework/admin/options.php:416
+msgid "Top Footer Background Color"
+msgstr ""
+
+#: ../framework/admin/options.php:417
+msgid "Choose Top Footer background color from here."
+msgstr ""
+
+#: ../framework/admin/options.php:424
+msgid "Footer Column Titles Color"
+msgstr ""
+
+#: ../framework/admin/options.php:431
+msgid "Title of First Column (Quick Links Column) of the Footer"
+msgstr ""
+
+#: ../framework/admin/options.php:439
+msgid "Title of Second Column (Social Media Column) of the Footer"
+msgstr ""
+
+#: ../framework/admin/options.php:447
+msgid "Title of Third Column (News Updates Column) of the Footer"
+msgstr ""
+
+#: ../framework/admin/options.php:455
+msgid "Title of Fourth Column (Newsletter Column) of the Footer"
+msgstr ""
+
+#: ../framework/admin/options.php:463
+msgid "Footer Titles Color"
+msgstr ""
+
+#: ../framework/admin/options.php:470
+msgid "Latest Articles/News Updates Column"
+msgstr ""
+
+#: ../framework/admin/options.php:471
+msgid "Show/Hide News Updates column in the footer."
+msgstr ""
+
+#: ../framework/admin/options.php:479
+msgid "Newsletter Column"
+msgstr ""
+
+#: ../framework/admin/options.php:480
+msgid "Show/Hide newsletter column in the footer."
+msgstr ""
+
+#: ../framework/admin/options.php:502
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: ../framework/admin/options.php:503
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: ../framework/admin/options.php:504
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: ../framework/admin/options.php:506
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: ../framework/admin/options.php:512
+msgid "Theme Information"
+msgstr ""
+
+#: ../framework/admin/options/defaults.php:45
+#: ../framework/admin/options/defaults.php:47
+msgid "Options"
+msgstr ""
+
+#: ../framework/admin/options/defaults.php:58
+#, php-format
+msgid ""
+"<span id=\"footer-thankyou\">Options panel created using <a href=\"%s\" "
+"target=\"_blank\">Redux Framework</a> v%s</span>"
+msgstr ""
+
+#: ../framework/admin/options/defaults.php:232
+#: ../framework/admin/options/defaults.php:233
+#: ../framework/admin/options/defaults.php:668
+msgid "Import / Export"
+msgstr ""
+
+#: ../framework/admin/options/defaults.php:252
+#: ../framework/admin/options/defaults.php:253
+#: ../framework/admin/options/defaults.php:699
+#: ../framework/admin/options/defaults.php:772
+msgid "Dev Mode Info"
+msgstr ""
+
+#: ../framework/admin/options/defaults.php:344
+msgid "Are you sure? You will lose all custom values."
+msgstr ""
+
+#: ../framework/admin/options/defaults.php:620
+#: ../framework/admin/options/defaults.php:797
+msgid "Reset to Defaults"
+msgstr ""
+
+#: ../framework/admin/options/defaults.php:626
+msgid "<strong>Settings Imported!</strong>"
+msgstr ""
+
+#: ../framework/admin/options/defaults.php:628
+msgid "<strong>Settings Saved!</strong>"
+msgstr ""
+
+#: ../framework/admin/options/defaults.php:633
+msgid "<strong>Settings have changed, you should save them!</strong>"
+msgstr ""
+
+#: ../framework/admin/options/defaults.php:634
+msgid "<strong><span></span> error(s) were found!</strong>"
+msgstr ""
+
+#: ../framework/admin/options/defaults.php:635
+msgid "<strong><span></span> warning(s) were found!</strong>"
+msgstr ""
+
+#: ../framework/admin/options/defaults.php:717
+msgid "Import / Export Options"
+msgstr ""
+
+#: ../framework/admin/options/defaults.php:718
+msgid "Import Options"
+msgstr ""
+
+#: ../framework/admin/options/defaults.php:719
+msgid "Import from file"
+msgstr ""
+
+#: ../framework/admin/options/defaults.php:719
+msgid "Import from URL"
+msgstr ""
+
+#: ../framework/admin/options/defaults.php:724
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: ../framework/admin/options/defaults.php:734
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: ../framework/admin/options/defaults.php:741
+msgid "Import"
+msgstr ""
+
+#: ../framework/admin/options/defaults.php:741
+msgid ""
+"WARNING! This will overwrite any existing options, please proceed with "
+"caution!"
+msgstr ""
+
+#: ../framework/admin/options/defaults.php:744
+msgid "Export Options"
+msgstr ""
+
+#: ../framework/admin/options/defaults.php:746
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: ../framework/admin/options/defaults.php:749
+msgid "Copy"
+msgstr ""
+
+#: ../framework/admin/options/defaults.php:749
+msgid "Copy Link"
+msgstr ""
+
+#: ../framework/admin/options/fields/color_gradient/field_color_gradient.php:28
+#: ../framework/admin/options/fields/color_gradient/field_color_gradient.php:33
+msgid "From:"
+msgstr ""
+
+#: ../framework/admin/options/fields/color_gradient/field_color_gradient.php:29
+msgid "To:"
+msgstr ""
+
+#: ../framework/admin/options/fields/color_gradient/field_color_gradient.php:35
+msgid " To:"
+msgstr ""
+
+#: ../framework/admin/options/fields/google_webfonts/field_google_webfonts.php:25
+msgid ""
+"The fonts provided below are free to use custom fonts from Google Web Fonts "
+"directory"
+msgstr ""
+
+#: ../framework/admin/options/fields/multi_text/field_multi_text.php:40
+msgid "Add More"
+msgstr ""
+
+#: ../framework/admin/options/validation/color/validation_color.php:13
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: ../framework/admin/options/validation/comma_numeric/validation_comma_numeric.php:13
+msgid ""
+"You must provide a comma seperated list of numerical values for this option."
+msgstr ""
+
+#: ../framework/admin/options/validation/date/validation_date.php:13
+msgid "This field must be a valid date."
+msgstr ""
+
+#: ../framework/admin/options/validation/email/validation_email.php:13
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: ../framework/admin/options/validation/no_html/validation_no_html.php:13
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: ../framework/admin/options/validation/no_special_chars/validation_no_special_chars.php:13
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: ../framework/admin/options/validation/numeric/validation_numeric.php:13
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: ../framework/admin/options/validation/url/validation_url.php:13
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: ../framework/plugins.php:65
+#: ../framework/plugins/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../framework/plugins.php:66
+#: ../framework/plugins/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: ../framework/plugins.php:67
+#: ../framework/plugins/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../framework/plugins.php:68
+#: ../framework/plugins/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../framework/plugins.php:79
+#: ../framework/plugins/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../framework/plugins.php:80
+#: ../framework/plugins/class-tgm-plugin-activation.php:399
+#: ../framework/plugins/class-tgm-plugin-activation.php:3034
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../framework/plugins.php:81
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:400
+#: ../framework/plugins/class-tgm-plugin-activation.php:2837
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:1886
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:2172
+msgid "Required"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:2175
+msgid "Recommended"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:2191
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:2194
+msgid "External Source"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:2197
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:2214
+msgid "Not Installed"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:2218
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:2220
+msgid "Active"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:2226
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:2229
+msgid "Requires Update"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:2232
+msgid "Update recommended"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:2240
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:2288
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:2291
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:2294
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:2376
+msgid "unknown"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:2384
+msgid "Installed version:"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:2392
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:2404
+msgid "Available version:"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:2441
+msgid "Plugin"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:2442
+msgid "Source"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:2443
+msgid "Type"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:2447
+msgid "Version"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:2448
+msgid "Status"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:2496
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:2500
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:2505
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:2608
+msgid "Install"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:2614
+msgid "Update"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:2617
+msgid "Activate"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:2648
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:2650
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:2686
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:2688
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:3033
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:3367
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:3369
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:3374
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:3375
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:3376
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:3377
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:3380
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:3382
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../framework/plugins/class-tgm-plugin-activation.php:3383
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/shortcodes.php:126
+#: ../framework/plugins/the_cosonix_shortcodes/shortcodes.php:145
+#: ../framework/plugins/the_cosonix_shortcodes/shortcodes.php:159
+#: ../framework/plugins/the_cosonix_shortcodes/shortcodes.php:205
+#: ../framework/plugins/the_cosonix_shortcodes/shortcodes.php:224
+#: ../framework/plugins/the_cosonix_shortcodes/shortcodes.php:238
+#: ../framework/plugins/the_cosonix_shortcodes/shortcodes.php:338
+#: ../framework/plugins/the_cosonix_shortcodes/shortcodes.php:357
+#: ../framework/plugins/the_cosonix_shortcodes/shortcodes.php:371
+msgid "Your Name"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/shortcodes.php:129
+#: ../framework/plugins/the_cosonix_shortcodes/shortcodes.php:148
+#: ../framework/plugins/the_cosonix_shortcodes/shortcodes.php:162
+#: ../framework/plugins/the_cosonix_shortcodes/shortcodes.php:208
+#: ../framework/plugins/the_cosonix_shortcodes/shortcodes.php:227
+#: ../framework/plugins/the_cosonix_shortcodes/shortcodes.php:241
+#: ../framework/plugins/the_cosonix_shortcodes/shortcodes.php:341
+#: ../framework/plugins/the_cosonix_shortcodes/shortcodes.php:360
+#: ../framework/plugins/the_cosonix_shortcodes/shortcodes.php:374
+msgid "Your Email Address"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/shortcodes.php:934
+msgid "*Your Name..."
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/shortcodes.php:935
+msgid "*Your Email Address..."
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/shortcodes.php:937
+msgid "Subject..."
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/shortcodes.php:938
+msgid "*Your Message Here..."
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/shortcodes.php:940
+msgid "Sending..."
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/shortcodes.php:943
+msgid "Send Message"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:11
+msgid "Cosonix- Home Block Variation 1"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:15
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:88
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:153
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:236
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:308
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:364
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:475
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:535
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:687
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:799
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:919
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1754
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2170
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2211
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2371
+msgid "by Fluent-Themes Shortcodes"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:18
+msgid "Home-Block section variation one"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:26
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:99
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:247
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:319
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:578
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2181
+msgid "Title text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:31
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:104
+msgid "Play title color"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:39
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:112
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:252
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:324
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:583
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2186
+msgid "Text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:42
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:115
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:255
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:327
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:586
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2189
+msgid "Text under the Title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:47
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:120
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:559
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1770
+#: ../inc/vc-shortcodes.php:38
+msgid "Play text color"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:55
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:128
+msgid "SignUp Form Button Text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:58
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:131
+msgid "Sign up form button text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:63
+msgid "Right Side Image"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:66
+msgid "Attach the right side image of this block"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:71
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:136
+msgid "Section Height"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:74
+msgid "Default height is 650px"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:84
+msgid "Cosonix- Home Block Variation 2"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:91
+msgid "Home-Block section variation two"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:139
+msgid "Default height is 750px"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:149
+msgid "Cosonix- Portfolio Image"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:156
+msgid "Portfolio Project Image"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:161
+msgid "Project Image"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:164
+msgid ""
+"Attach the project image. Try to use same size images for all the projects "
+"of the portfolio to get the best view."
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:169
+msgid "Project Category Name"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:172
+msgid "Project category name"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:177
+msgid "Play Category text Color"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:185
+msgid "Project Title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:188
+msgid "Project title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:193
+msgid "Play Title text Color"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:201
+msgid "Project URL"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:204
+msgid "Details Page URL of the Project"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:209
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2285
+msgid "Target"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:214
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2290
+msgid "Open link in new tab?"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:219
+msgid "Play Mouse Over Background Color"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:232
+msgid "Cosonix- NewsLetter Block"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:239
+msgid "NewsLetter Block with Signup form and Images"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:260
+msgid "SignUp Button Text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:263
+msgid "SignUp button text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:268
+msgid "Left Side Image"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:271
+msgid "Attach the left side desktop-view image of this block"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:276
+msgid "Right Side Book Image"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:279
+msgid "Attach the right side book image of this block"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:284
+msgid "Book Price"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:287
+msgid "Input book price"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:292
+msgid "Price Currency"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:295
+msgid "Input currency of the book price, e.g., $"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:304
+msgid "Cosonix- Features with Icon"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:311
+msgid "Displays Features with FontAwesome Icons"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:332
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2194
+msgid "Icon name"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:335
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2197
+msgid "Icon list - "
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:335
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:610
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:634
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:658
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:968
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1070
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1167
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1259
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1346
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1428
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1505
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1577
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1644
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1705
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2197
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2250
+msgid "refer here"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:340
+msgid "Read More Text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:343
+msgid "Place the Read More Text - Default is More >"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:348
+msgid "Read More URL"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:351
+msgid "Place the Read More url"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:360
+msgid "Cosonix- Pricing table"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:365
+msgid "Displays pricing table plan"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:370
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:373
+msgid "Pracing plan name"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:378
+msgid "Price"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:381
+msgid "Price with Currency (e.g. $99)"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:386
+msgid "Features"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:388
+msgid "Start each feature on new line"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:393
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:663
+msgid "Button Label"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:396
+msgid "Button label"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:401
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:671
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2233
+msgid "Button URL"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:404
+msgid "Button url field. Leave it blank if you want to use Paypal."
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:409
+msgid "Want to use Paypal?"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:419
+msgid "PayPal Business Email ID"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:426
+msgid "Your PayPal Business Email ID"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:431
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:438
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2325
+msgid "Currency"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:443
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:450
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2337
+msgid "Payment Amount"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:455
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2349
+msgid "Return URL"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:462
+msgid "The URL of Thank You Page."
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:471
+msgid "Cosonix- Testimonial"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:478
+msgid "Testimonial"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:483
+msgid "Client Image"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:486
+msgid "Attach 84x84 size client image"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:491
+msgid "What Cient Says"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:497
+msgid "Want to have quoted text?"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:507
+msgid "Client Name"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:513
+msgid "Client Designation"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:519
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:543
+msgid "Play background color"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:531
+msgid "Cosonix- Quick Peak Block"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:538
+msgid "Displays some important features"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:551
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1762
+msgid "Play titles color"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:567
+msgid "Play icons color"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:591
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:594
+msgid "Sub-Title 1"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:599
+msgid "Sub-Text 1"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:602
+msgid "Text under the Sub-Title 1"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:607
+msgid "Icon 1"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:610
+msgid "Icon name for the Sub-section 1. Icon list - "
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:615
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:618
+msgid "Sub-Title 2"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:623
+msgid "Sub-Text 2"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:626
+msgid "Text under the Sub-Title 2"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:631
+msgid "Icon 2"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:634
+msgid "Icon name for the Sub-section 2. Icon list - "
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:639
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:642
+msgid "Sub-Title 3"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:647
+msgid "Sub-Text 3"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:650
+msgid "Text under the Sub-Title 3"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:655
+msgid "Icon 3"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:658
+msgid "Icon name for the Sub-section 3. Icon list - "
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:666
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2277
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2280
+msgid "Button Text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:674
+msgid "Button link"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:683
+msgid "Cosonix- Author Block"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:690
+msgid "Author Bio Block"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:695
+msgid "Author Name"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:701
+msgid "Play Author Name color"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:709
+msgid "Author Image"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:712
+msgid "Attach 128x128 size author image"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:717
+msgid "Author Signature Image"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:720
+msgid ""
+"Attach an image of author signature. Transparent background is recommended."
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:725
+msgid "About Author"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:731
+msgid "Play Text color"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:739
+msgid "Play section border color"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:759
+msgid "Google+ URL"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:783
+msgid "Play Social Icons Background color"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:795
+msgid "Cosonix- Chapters Block"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:802
+msgid "Chapters Block"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:807
+msgid "Chapter One Caption Title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:813
+msgid "Chapter One Title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:819
+msgid "Chapter One Description"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:825
+msgid "Chapter One Image"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:828
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:854
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:880
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:906
+msgid ""
+"Image Width and Height ratio 1 : 2.8 is the best for the Chapters section."
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:833
+msgid "Chapter Two Caption Title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:839
+msgid "Chapter Two Title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:845
+msgid "Chapter Two Description"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:851
+msgid "Chapter Two Image"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:859
+msgid "Chapter Three Caption Title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:865
+msgid "Chapter Three Title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:871
+msgid "Chapter Three Description"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:877
+msgid "Chapter Three Image"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:885
+msgid "Chapter Four Caption Title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:891
+msgid "Chapter Four Title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:897
+msgid "Chapter Four Description"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:903
+msgid "Chapter Four Image"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:915
+msgid "Cosonix- Vertical Tabs"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:922
+msgid "Vertical Tabs"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:927
+msgid "Number of Tabs"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:931
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1798
+msgid "One"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:932
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1799
+msgid "Two"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:933
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1800
+msgid "Three"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:934
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1801
+msgid "Four"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:935
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1802
+msgid "Five"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:936
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1803
+msgid "Six"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:937
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1804
+msgid "Seven"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:938
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1805
+msgid "Eight"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:939
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1806
+msgid "Nine"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:940
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1807
+msgid "Ten"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:946
+msgid "Tab-1 Title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:966
+msgid "Tab-1 Icon"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:968
+msgid "Icon name for the tab-1. Icon list - "
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:987
+msgid "Tab-1 Sub-Title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1007
+msgid "Tab-1 Text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1027
+msgid "Tab-1 Image"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1030
+msgid "Attach Tab 1 image"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1049
+msgid "Tab-2 Title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1068
+msgid "Tab-2 Icon"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1070
+msgid "Icon name for the tab-2. Icon list - "
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1088
+msgid "Tab-2 Sub-Title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1107
+msgid "Tab-2 Text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1126
+msgid "Tab-2 Image"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1129
+msgid "Attach Tab 2 image"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1147
+msgid "Tab-3 Title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1165
+msgid "Tab-3 Icon"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1167
+msgid "Icon name for the tab-3. Icon list - "
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1184
+msgid "Tab-3 Sub-Title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1202
+msgid "Tab-3 Text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1220
+msgid "Tab-3 Image"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1223
+msgid "Attach Tab 3 image"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1240
+msgid "Tab-4 Title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1257
+msgid "Tab-4 Icon"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1259
+msgid "Icon name for the tab-4. Icon list - "
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1275
+msgid "Tab-4 Sub-Title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1292
+msgid "Tab-4 Text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1309
+msgid "Tab-4 Image"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1312
+msgid "Attach Tab 4 image"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1328
+msgid "Tab-5 Title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1344
+msgid "Tab-5 Icon"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1346
+msgid "Icon name for the tab-5. Icon list - "
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1361
+msgid "Tab-5 Sub-Title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1377
+msgid "Tab-5 Text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1393
+msgid "Tab-5 Image"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1396
+msgid "Attach Tab 5 image"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1411
+msgid "Tab-6 Title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1426
+msgid "Tab-6 Icon"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1428
+msgid "Icon name for the tab-6. Icon list - "
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1442
+msgid "Tab-6 Sub-Title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1457
+msgid "Tab-6 Text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1472
+msgid "Tab-6 Image"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1475
+msgid "Attach Tab 6 image"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1489
+msgid "Tab-7 Title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1503
+msgid "Tab-7 Icon"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1505
+msgid "Icon name for the tab-7. Icon list - "
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1518
+msgid "Tab-7 Sub-Title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1532
+msgid "Tab-7 Text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1546
+msgid "Tab-7 Image"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1549
+msgid "Attach Tab 7 image"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1562
+msgid "Tab-8 Title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1575
+msgid "Tab-8 Icon"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1577
+msgid "Icon name for the tab-8. Icon list - "
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1589
+msgid "Tab-8 Sub-Title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1602
+msgid "Tab-8 Text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1615
+msgid "Tab-8 Image"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1618
+msgid "Attach Tab 8 image"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1630
+msgid "Tab-9 Title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1642
+msgid "Tab-9 Icon"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1644
+msgid "Icon name for the tab-9. Icon list - "
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1655
+msgid "Tab-9 Sub-Title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1667
+msgid "Tab-9 Text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1679
+msgid "Tab-9 Image"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1682
+msgid "Attach Tab 9 image"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1693
+msgid "Tab-10 Title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1703
+msgid "Tab-10 Icon"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1705
+msgid "Icon name for the tab-10. Icon list - "
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1714
+msgid "Tab-10 Sub-Title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1724
+msgid "Tab-10 Text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1734
+msgid "Tab-10 Image"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1737
+msgid "Attach Tab 10 image"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1750
+msgid "Cosonix- Accordion"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1757
+msgid "Displays Awesome Accordion"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1778
+msgid "Play border color"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1786
+msgid "Play icon color"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1789
+msgid "Choose plus/minus icon color"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1794
+msgid "Number of Accordion"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1813
+msgid "Accordion one title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1816
+msgid "Type Accordion one title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1835
+msgid "Accordion one text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1838
+msgid "Type Accordion one text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1857
+msgid "Accordion two title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1860
+msgid "Type Accordion two title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1878
+msgid "Accordion two text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1881
+msgid "Type Accordion two text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1899
+msgid "Accordion three title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1902
+msgid "Type Accordion three title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1919
+msgid "Accordion three text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1922
+msgid "Type Accordion three text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1939
+msgid "Accordion four title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1942
+msgid "Type Accordion four title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1958
+msgid "Accordion four text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1961
+msgid "Type Accordion four text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1977
+msgid "Accordion five title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1980
+msgid "Type Accordion five title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1995
+msgid "Accordion five text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:1998
+msgid "Type Accordion five text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2013
+msgid "Accordion six title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2016
+msgid "Type Accordion six title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2030
+msgid "Accordion six text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2033
+msgid "Type Accordion six text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2047
+msgid "Accordion seven title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2050
+msgid "Type Accordion seven title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2063
+msgid "Accordion seven text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2066
+msgid "Type Accordion seven text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2079
+msgid "Accordion eight title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2082
+msgid "Type Accordion eight title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2094
+msgid "Accordion eight text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2097
+msgid "Type Accordion eight text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2109
+msgid "Accordion nine title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2112
+msgid "Type Accordion nine title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2123
+msgid "Accordion nine text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2126
+msgid "Type Accordion nine text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2137
+msgid "Accordion ten title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2140
+msgid "Type Accordion ten title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2149
+msgid "Accordion ten text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2152
+msgid "Type Accordion ten text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2166
+msgid "Cosonix- Icon Events"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2173
+msgid "FontAwesome Icon Events"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2207
+msgid "Cosonix- Buttons"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2214
+msgid "Custom Buttons"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2219
+msgid "Button Type"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2223
+msgid "Submit type button"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2224
+msgid "Button with icon"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2225
+msgid "Button without icon"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2226
+msgid "Paypal button"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2228
+msgid "Select Button type."
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2236
+msgid "Insert button URL"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2247
+msgid "Button Icon"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2250
+msgid "Input icon name. Icon list - "
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2261
+msgid "Play button color"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2269
+msgid "Button Width"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2272
+msgid "Set button width in pixel"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2301
+msgid "Item Name"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2304
+msgid "Item name for which the payment will be made."
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2313
+msgid "PayPal Business ID"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2316
+msgid "Your Paypal business email id."
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2328
+msgid "Currency."
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2340
+msgid "Payment amount."
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2352
+msgid "Your Thank You page URL."
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2367
+msgid "Cosonix Contact Form"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2374
+msgid "Custom Contact Form. Messages will be sent to the admin email."
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2379
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2382
+msgid "Form Title"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2387
+msgid "Form Text"
+msgstr ""
+
+#: ../framework/plugins/the_cosonix_shortcodes/vc_shortcodes.php:2390
+msgid "Form Text below the Title"
+msgstr ""
+
+#: ../inc/enqueue.php:39 ../inc/enqueue.php:45
+msgid "Error while ajax request"
+msgstr ""
+
+#: ../inc/enqueue.php:40 ../inc/enqueue.php:46
+msgid "Thank you, your email has been sent"
+msgstr ""
+
+#: ../inc/theme-functions.php:21
+msgid "Main Menu"
+msgstr ""
+
+#: ../inc/theme-functions.php:22
+msgid "Footer Menu"
+msgstr ""
+
+#: ../inc/theme-functions.php:32
+msgid "Sidebar"
+msgstr ""
+
+#: ../inc/theme-functions.php:101
+msgid "Home"
+msgstr ""
+
+#: ../inc/theme-functions.php:107
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../inc/theme-functions.php:178
+msgid "Your comment..."
+msgstr ""
+
+#: ../inc/theme-functions.php:187
+msgid "Name"
+msgstr ""
+
+#: ../inc/theme-functions.php:190
+msgid "Name*"
+msgstr ""
+
+#: ../inc/theme-functions.php:191
+msgid "Email*"
+msgstr ""
+
+#: ../inc/theme-functions.php:192 ../inc/theme-functions.php:200
+msgid "Website"
+msgstr ""
+
+#: ../inc/theme-functions.php:199
+msgid "Email"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:7
+msgid "Want to have shadow below the row?"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:18
+msgid "Want to have top padding?"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:21
+msgid "Input top padding in pixel (i.e 50px)."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:27
+msgid "Want to have bottom padding?"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:30
+msgid "Input bottom padding in pixel (i.e 50px)."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:49
+msgid "Font Weight"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:52
+msgid ""
+"Input font-weight, i.e- normal, bold, bolder, lighter, 100, 200, 300, 400, "
+"500, 600, 700, 900 etc."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:58
+msgid "Do not turn first two words Bold automatically"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:77
+msgid "Cosonix One-Page eBook Layout"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:141
+msgid "Cosonix One-Page Travel Layout"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:197
+msgid "Cosonix One-Page App Layout"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:253
+msgid "Cosonix One-Page Attorney Layout"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:284
+msgid "Cosonix One-Page Portfolio Layout"
+msgstr ""
+
+#: ../inc/widgets.php:10
+msgid "Cosonix -Latest Comments Widget"
+msgstr ""
+
+#: ../inc/widgets.php:11
+msgid "The Most Recent Comments"
+msgstr ""
+
+#: ../inc/widgets.php:21
+msgid "Latest Comments"
+msgstr ""
+
+#: ../inc/widgets.php:50
+msgid " "
+msgstr ""
+
+#: ../inc/widgets.php:56
+msgid "Number of comments in list:"
+msgstr ""
+
+#: ../inc/widgets.php:85
+msgid "Cosonix -Latest and Popular Posts Widget"
+msgstr ""
+
+#: ../inc/widgets.php:86
+msgid "Displays the Most Recent and Popular Posts"
+msgstr ""
+
+#: ../inc/widgets.php:96
+msgid "Latest Articles"
+msgstr ""
+
+#: ../inc/widgets.php:97
+msgid "Most Popular"
+msgstr ""
+
+#: ../inc/widgets.php:172
+msgid "Cosonix -Tags Widget"
+msgstr ""
+
+#: ../inc/widgets.php:173
+msgid "Displays All Tags"
+msgstr ""
+
+#: ../inc/widgets.php:179
+msgid "Tags"
+msgstr ""
+
+#: ../inc/widgets.php:206
+msgid "Cosonix -Search Widget"
+msgstr ""
+
+#: ../inc/widgets.php:207
+msgid "Custom Search Bar"
+msgstr ""
+
+#: ../search.php:19
+msgid "Search Results for"
+msgstr ""
+
+#: ../single.php:30
+msgid "Categories: "
+msgstr ""
+
+#: ../single.php:51
+msgid " Older entries"
+msgstr ""
+
+#: ../single.php:52
+msgid "Next entries "
+msgstr ""

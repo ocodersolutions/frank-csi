@@ -1,0 +1,159 @@
+@media all and (min-width: 1200px){
+    /*Header*/
+    #header .toggle-menu{
+        display: none;
+    }
+    #wrap-nav-list{
+        display: block;
+    }
+
+    #wrap-nav-list .nav-list{
+        text-align: right;
+        height: 70px;
+    }
+
+    #wrap-nav-list .nav-list li{
+        display: inline-block;
+        line-height: 70px;
+    }
+
+    #wrap-nav-list li ul{
+        border-top: 2px solid transparent;
+        margin-top: -2px;
+    }
+
+    #wrap-nav-list li:hover ul{
+        border-top: 2px solid #ecae1a;
+    }
+
+    .main-nav #wrap-nav-list .nav-list li a{
+        padding: 0 15px 0 18px;
+    }
+
+    .main-nav #wrap-nav-list .nav-list li:last-child a{
+        padding: 0 0 0 18px;
+    }
+
+    .scaled-down{
+        min-height: 60px;
+        line-height: 60px;
+    }
+
+    #header.scaled-down .logo{
+        margin: 11px 0 10px;
+    }
+
+    #header.scaled-down .logo a{
+        -webkit-background-size: 161px 28px;
+        background-size: 161px 28px;
+    }
+
+    #header.scaled-down #wrap-nav-list .nav-list li{
+        line-height: 60px;
+    }
+
+    #header.scaled-down #wrap-nav-list .nav-list{
+        height: 60px;
+    }
+    /*END Header*/
+
+    /*HOME SECTION*/
+    .sign-up-block .img-sign-up-block {
+
+    }
+    .sign-up-text{
+        height: 650px;
+    }
+    .sign-up-block .sign-up-text h2{
+        margin: 150px 0 20px;
+    }
+
+    .sign-up-block .frm-common{
+        padding: 35px 85px 95px 15px;
+    }
+
+    .btn-common{
+        height: 53px;
+        font-size: 22px;
+    }
+
+    .btn-common .wrap-icon .inner-icon{
+        line-height: 47px!important;
+    }
+
+    .btn-common .wrap-icon .inner-icon:before{
+        border-top: 23px solid transparent!important;
+        border-bottom: 24px solid transparent!important;
+    }
+    /*END HOME SECTION*/
+
+    /*SUBSCRIBE SECTION*/
+    .book-block label{
+        top: -3px;
+        right: 189px;
+    }
+    .book-block .img-responsive{
+        margin: 0;
+    }
+    /*END SUBSCRIBE SECTION*/
+
+    /*PRICING SECTION*/
+    .in-service:hover{
+        margin-top: -37px;
+    }
+    /*END PRICING SECTION*/
+
+    /*OVERVIEW SECTION*/
+    /*BOOK INTRODUCTION BLOCK*/
+    .introduction-block >.wrap-icon{
+        background-color: #393735;
+        border: 2px solid #454340;
+        padding: 4px;
+        width: 138px;
+        height: 138px;
+        display: inline-block;
+        position: absolute;
+        right: -69px;
+        top: 100px;
+        -webkit-border-radius: 138px;
+        -moz-border-radius: 138px;
+        border-radius: 138px;
+    }
+    .introduction-block >.wrap-icon >.inner-icon{
+        background-color: #fff;
+        width: 128px;
+        height: 128px;
+        -webkit-border-radius: 128px;
+        -moz-border-radius: 128px;
+        border-radius: 128px;
+        display: inline-block;
+        overflow: hidden;
+    }
+
+    .introduction-block >.wrap-icon >.inner-icon img{
+        max-width: 128px;
+    }
+
+    .introduction-block >p{
+        padding: 0 77px 0 26px;
+    }
+
+    .introduction-title{
+        padding: 9px 77px 10px 26px;
+    }
+    /*END BOOK INTRODUCTION BLOCK*/
+
+    /*TEMPLATE BLOCK*/
+    .template-block .btn-common {
+        width: 555px;
+    }
+    /*END TEMPLATE BLOCK*/
+
+    /*END OVERVIEW SECTION*/
+    #subscribe .wpb_wrapper .vc_empty_space{
+        height: 100px !important;
+    }
+    .btn-menu{
+        display: none!important;
+    }
+}

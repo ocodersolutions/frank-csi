@@ -1,0 +1,131 @@
+@media all and (min-width: 768px) and (max-width: 991px){
+	#header .toggle-menu{
+        display: none;
+    }
+    #wrap-nav-list{
+        display: block;
+    }
+	#wrap-nav-list .nav-list li {
+    display: inline-block;
+    line-height: 62px;
+	}
+	.main-nav #wrap-nav-list .nav-list li a {
+    padding: 0 6px !important;
+	}
+	#header .toggle-menu, #header .main-nav .nav-list li a {
+    font-size: 11px !important;
+	}
+	.logo {
+    max-width: 100% !important;
+	}
+	#header .main-nav .nav-list li a {
+    border-bottom: medium none !important;
+	}
+}
+@media all and (min-width: 768px) {
+    /*HOME SECTION*/
+    .hide-md-up{
+        display: none;
+    }
+
+    .sign-up-block .container{
+        position: relative;
+    }
+
+    .sign-up-block .img-sign-up-block{
+        position: absolute;
+        top: 43px;
+        width: 100%;
+    }
+
+    .sign-up-block .img-sign-up-block .img-responsive{
+        max-width: 100%;
+        float: right;
+    }
+
+    .sign-up-block .btn-common .wrap-icon .inner-icon{
+        line-height: 43px;
+    }
+
+    .sign-up-block .btn-common .wrap-icon .inner-icon:before{
+        border-top: 22px solid transparent;
+        border-bottom: 23px solid transparent;
+    }
+    /*END HOME SECTION*/
+
+    /*FEATURES SECTION*/
+    .btn-common .wrap-icon .inner-icon{
+        line-height: 70px;
+    }
+
+    .btn-common .wrap-icon .inner-icon:before{
+        border-top: 22px solid transparent;
+        border-bottom: 23px solid transparent;
+    }
+
+    /*END FEATURES SECTION*/
+
+    /*SUBSCRIBE SECTION*/
+    .newsletter-block .btn-common .wrap-icon .inner-icon{
+        line-height: 47px;
+    }
+
+    .newsletter-block .btn-common .wrap-icon .inner-icon:before{
+        border-top: 22px solid transparent;
+        border-bottom: 23px solid transparent;
+    }
+    .book-block label{
+        right: 37%;
+    }
+    /*END SUBSCRIBE SECTION*/
+
+    /*PRICING SECTION*/
+    .service-block .in-service:nth-child(1){
+        margin-right: -15px;
+    }
+
+    .service-block .in-service:nth-child(3){
+        margin-left: -15px;
+    }
+
+    /*END PRICING SECTION*/
+
+    /*OVERVIEW SECTION*/
+    .template-block .btn-common .wrap-icon .inner-icon{
+        line-height: 43px;
+    }
+
+    .template-block .btn-common .wrap-icon .inner-icon:before{
+        border-top: 22px solid transparent;
+        border-bottom: 23px solid transparent;
+    }
+
+    .half-width{
+        width: 50%;
+    }
+
+    .wrapper img{
+        margin-bottom: 0;
+    }
+    /*END OVERVIEW SECTION*/
+
+    /*CONTACT US SECTION*/
+    .contact-us .btn-common .wrap-icon .inner-icon{
+        line-height: 43px;
+    }
+    .contact-us .btn-common .wrap-icon .inner-icon:before{
+        border-top: 22px solid transparent;
+        border-bottom: 23px solid transparent;
+    }
+    /*END CONTACT US SECTION*/
+
+    /*FOOTER*/
+    .footer-block-title{
+        font-size: 14px;
+    }
+    /*END FOOTER*/
+
+    /*BLOCK PAGE*/
+
+    /*END BLOCK PAGE*/
+}
